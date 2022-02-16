@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/osuripple/cheesegull/models"
+	"github.com/osu-datenshi/cheesegull/models"
 	osuapi "github.com/thehowl/go-osuapi"
 )
 

@@ -1,6 +1,6 @@
 <p align="center"><img src="https://y.zxq.co/jobeei.png"></p>
 
-# CheeseGull [![Build Status](https://travis-ci.org/osuripple/cheesegull.svg?branch=master)](https://travis-ci.org/osuripple/cheesegull)
+# CheeseGull [![Build Status](https://travis-ci.org/osu-datenshi/cheesegull.svg?branch=master)](https://travis-ci.org/osu-datenshi/cheesegull)
 
 CheeseGull creates an unofficial "slave" database of the official osu! beatmap
 database, trying to keep every beatmap up to date as much as possible, as well
@@ -39,10 +39,10 @@ handle. Or should be able to handle, at least.
 ## Getting Started
 
 You can find binaries of the latest release
-[here.](https://github.com/osuripple/cheesegull/releases/latest)
+[here.](https://github.com/osu-datenshi/cheesegull/releases/latest)
 
 If you want to compile from source, if you have Go installed it should only be
-a `go get github.com/osuripple/cheesegull` away.
+a `go get github.com/osu-datenshi/cheesegull` away.
 
 The only requirements at the moment are a MySQL server and an osu! account.
 Check out `cheesegull --help` to see how you can set them up for cheesegull to

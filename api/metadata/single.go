@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/osuripple/cheesegull/api"
-	"github.com/osuripple/cheesegull/models"
+	"github.com/osu-datenshi/cheesegull/api"
+	"github.com/osu-datenshi/cheesegull/models"
 )
 
 // Beatmap handles requests to retrieve single beatmaps.

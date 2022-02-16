@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/osuripple/cheesegull/api"
-	"github.com/osuripple/cheesegull/downloader"
-	"github.com/osuripple/cheesegull/housekeeper"
-	"github.com/osuripple/cheesegull/models"
+	"github.com/osu-datenshi/cheesegull/api"
+	"github.com/osu-datenshi/cheesegull/downloader"
+	"github.com/osu-datenshi/cheesegull/housekeeper"
+	"github.com/osu-datenshi/cheesegull/models"
 )
 
 func errorMessage(c *api.Context, code int, err string) {
